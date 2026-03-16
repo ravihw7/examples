@@ -1,2 +1,0 @@
-# examples
-example for deploy
